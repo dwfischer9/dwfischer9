@@ -27,7 +27,7 @@ I'm a developer and university student in my third year of my Computer Science d
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwfischer9&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=dwfischer9&theme=gruvbox&border_radius=4.5) -->
-
+<!-- [![<dwfischer9>'s LeetCode Stats](https://leetcode-stats.vercel.app/api?username<dwfischer9>&theme=<dark>)](https://github.com/JeremyTsaii/leetcode-stats) -->
 #
 
 <details>
