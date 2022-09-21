@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer)`**
 
-I'm a developer and university student in my third year of my Computer Science degree
+I'm a developer and university student in my third year of my Computer Science degree. I love learning how new technologies work and I'm always working on something, whether it be a website, a personal project, or leetcode.
 ---
 
 ### 🧰 Languages and Tools
@@ -24,7 +24,7 @@ I'm a developer and university student in my third year of my Computer Science d
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwfischer9&show_icons=true&theme=gruvbox)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwfischer9&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=dwfischer9&theme=gruvbox&border_radius=4.5) -->
 
