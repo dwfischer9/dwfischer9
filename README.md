@@ -2,7 +2,9 @@
 
 **`Digital Craftsman (Developer)`**
 
-I'm a developer and university student in my fourth year of my Computer Science bachelor program. As of May 2023, I am employed in a part-time Data Analysis position in the Greater Toronto Area. I plan to pursue a graduate degree beginning in Fall 2025.
+I'm a developer and university student in my fourth year of my Computer Science bachelor program. I plan to pursue a graduate degree beginning in Fall 2025.
+
+My job experience includes an 18-month term as a Data Analyst for Apotex, inc.
 ---
 
 ### 🧰 Languages and Tools
