@@ -35,5 +35,3 @@ I'm a developer and recent graduate from Wilfrid Laurier University. My job expe
   <p> My journey as a software developer began when I was in the tenth grade. The first project that I was proud of was a game of BlackJack, which was my final project that year. Ever since then, I've been obsessed with expanding my toolkit as a developer. I began my Honours Bachelor of Science, with a Major in Computer Science in the fall of 2020 at Wilfrid Laurier University. In 2023, I got my first co-op placement as a Data Analyst as part of WLU's Professional Experience Program (PEP).</p>
 </details>
  </summary>
-[website]: https://danielfischer.ca
-[linkedin]: https://www.linkedin.com/in/danwfischer/
